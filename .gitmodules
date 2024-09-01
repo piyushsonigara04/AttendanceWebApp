@@ -1,0 +1,3 @@
+[submodule "AttendanceAPIs"]
+	path = AttendanceAPIs
+	url = https://github.com/piyushsonigara04/AttendanceAPIs.git
