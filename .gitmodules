@@ -1,3 +1,6 @@
 [submodule "AttendanceAPIs"]
 	path = AttendanceAPIs
 	url = https://github.com/piyushsonigara04/AttendanceAPIs.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/piyushsonigara04/AttendanceFrontend.git
